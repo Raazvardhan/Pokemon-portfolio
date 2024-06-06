@@ -3,10 +3,23 @@
 Welcome to the Pokémon Portfolio project! This project showcases a Pokémon-themed portfolio, highlighting the experiences and abilities of various Pokémon.
 ![Green Passive Income Ideas YouTube Thumbnail](https://github.com/Raazvardhan/DareMaster/assets/139915269/1dbcbe85-1026-46c3-842d-be0601d0e8c7)
 
-
 ## Introduction
 
 This project is a fun and creative way to display a portfolio, inspired by the world of Pokémon. It features various Pokémon, their experiences, roles, and abilities, presented in an engaging and interactive manner.
+
+## Demo
+
+You can view the live website here: [Pokémon Portfolio](https://portfolio-pokemon.netlify.app/)
+
+## Features
+
+- A comprehensive list of Pokémon with detailed information.
+- Responsive design for seamless viewing on different devices.
+- Search functionality to quickly find your favorite Pokémon.
+- Interactive UI with animations and transitions.
+- Deployed on Netlify for reliable hosting.
+
+
 
 ## Technologies
 
